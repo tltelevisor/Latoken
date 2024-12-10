@@ -1,5 +1,5 @@
 BOT_TOKEN = '_____' #Latoken777_Bot
-id_admin = 391497468 #Maxim Chakhovsky
+id_admin = 391497468
 API_KEY = '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'
 OPENAI_MODEL = 'gpt-4o'
 URL_LATOKEN = 'https://coda.io/@latoken/latoken-talent/latoken-161'
